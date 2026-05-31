@@ -1,6 +1,6 @@
 # 🖊️ Collaborative Code Editor
 
-> Real time collaborative code editing powered by **Yjs CRDTs**, **Monaco Editor**, **Socket.IO**, and deployed on **AWS ECS**.
+> Real time collaborative code editing powered by **Yjs CRDTs**, **Monaco Editor**, **Socket.IO**, and deployed on **AWS ECS** via Docker Image.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
@@ -451,5 +451,5 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 ---
 
 <div align="center">
-  <sub>Built with ❤️ using React, Yjs, Socket.IO, and AWS</sub>
+  <sub>Built with ❤️ using React, Yjs, Socket.IO, Docker and AWS</sub>
 </div>
